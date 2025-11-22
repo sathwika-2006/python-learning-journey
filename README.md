@@ -26,4 +26,24 @@ A Python program that takes a student's name and marks of multiple subjects, cal
   - Grade
 - Displays a neat report card summary
 
-📂 Folder: **02_Student-ReportCard/main.py**
+- 
+
+#04 🏦 Simple Banking System (Python)
+
+This project is a simple command-line based banking system built using **loops and conditional statements** in Python.  
+Users can deposit money, withdraw money, check balance, and exit the program.
+
+### 🔧 Features
+- Deposit amount
+- Withdraw amount with balance validation
+- Check current balance
+- Exit the system safely
+
+### 🧠 Concepts Used
+- Variables
+- `while` loop
+- `if - elif - else` statements
+- User input & arithmetic operations
+
+
+

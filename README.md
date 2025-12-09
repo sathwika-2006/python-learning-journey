@@ -6,7 +6,7 @@ A beginner-level Python project that asks 5 math questions and shows the final s
 - Conditional statements (if/else)
 - Basic arithmetic
 
----
+
 
 #02 📝 Student Report Card
 
@@ -26,9 +26,9 @@ A Python program that takes a student's name and marks of multiple subjects, cal
   - Grade
 - Displays a neat report card summary
 
-- 
 
-#04 🏦 Simple Banking System (Python)
+
+#03 🏦 Simple Banking System (Python)
 
 This project is a simple command-line based banking system built using **loops and conditional statements** in Python.  
 Users can deposit money, withdraw money, check balance, and exit the program.
@@ -44,6 +44,33 @@ Users can deposit money, withdraw money, check balance, and exit the program.
 - `while` loop
 - `if - elif - else` statements
 - User input & arithmetic operations
+
+
+#04 📒 Contact Book Management System
+
+A Python-based mini project that allows users to store, view, search, and delete contacts using a simple menu-driven program.
+
+---
+
+### 🔧 Skills Used
+- Functions  
+- Lists  
+- Dictionaries  
+- While Loop  
+- Conditional Statements (`if/elif/else`)  
+- String Handling  
+
+---
+
+### 📌 Project Features
+- Add new contacts  
+- View all saved contacts  
+- Search contacts by name  
+- Delete contacts  
+- User-friendly menu system  
+- Data stored using list of dictionaries  
+
+
 
 
 
